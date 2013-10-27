@@ -1,0 +1,28 @@
+.agoLogo {
+  background: url("../imgs/ago-logo.gif");
+  width: 148px;
+  height: 96px;
+  background-repeat: no-repeat;
+}
+.painting {
+  background: url("../imgs/starry-night.jpg");
+  background-repeat: no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body {
+  background: url("../imgs/starry-night.jpg");
+  background-repeat: no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#agoLogo {
+  background: url("../imgs/ago-logo.gif");
+  width: 148px;
+  height: 96px;
+  background-repeat: no-repeat;
+}
